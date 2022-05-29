@@ -13,6 +13,7 @@ public class Clase {
     public Clase() {
     }
 
+    //Con
     public Clase(int idClase, String nombreClase, int nivel, String diaSemana, String horaInicio, String horaFin) {
         this.idClase = idClase;
         this.nombreClase = nombreClase;
