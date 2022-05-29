@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/contenedorPantallaPrincipal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/ic_pantalla_principal_foreground"
+    android:tag="fpp"
+    tools:context=".FragmentoPantallaPrincipal">
+
+    <Button
+        android:id="@+id/btn_dietas"
+        android:layout_width="125dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="536dp"
+        android:layout_marginTop="256dp"
+        android:backgroundTint="#DA5328"
+        android:stateListAnimator="@null"
+        android:text="Dietas"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_misEjercicios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="16dp"
+        android:text="Mis Ejercicios"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_misClases"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="304dp"
+        android:layout_marginTop="16dp"
+        android:text="Mis Clases"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_miDieta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="572dp"
+        android:layout_marginTop="16dp"
+        android:text="Mi Dieta"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/im_misEjercicios"
+        android:layout_width="205dp"
+        android:layout_height="154dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="52dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@mipmap/principal_ejercicios" />
+
+    <ImageView
+        android:id="@+id/im_misClases"
+        android:layout_width="226dp"
+        android:layout_height="138dp"
+        android:layout_marginStart="252dp"
+        android:layout_marginTop="60dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@mipmap/misclases" />
+
+    <Button
+        android:id="@+id/btn_agnadeEjercicios"
+        android:layout_width="157dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="216dp"
+        android:backgroundTint="#DA5328"
+        android:stateListAnimator="@null"
+        android:text="+ ejercicios"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_agnadeClases"
+        android:layout_width="123dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="304dp"
+        android:layout_marginTop="212dp"
+        android:backgroundTint="#DA5328"
+        android:stateListAnimator="@null"
+        android:text="+ clases"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_misEjercicios"
+        android:layout_width="156dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="260dp"
+        android:backgroundTint="#DA5328"
+        android:stateListAnimator="@null"
+        android:text="Mis Ejercicios"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_misClases"
+        android:layout_width="125dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="304dp"
+        android:layout_marginTop="260dp"
+        android:backgroundTint="#DA5328"
+        android:stateListAnimator="@null"
+        android:text="Mis Clases"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_principalDieta"
+        android:layout_width="211dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="492dp"
+        android:layout_marginTop="60dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_principalDieta2"
+        android:layout_width="215dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="492dp"
+        android:layout_marginTop="104dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_link"
+        android:layout_width="220dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="492dp"
+        android:layout_marginTop="184dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

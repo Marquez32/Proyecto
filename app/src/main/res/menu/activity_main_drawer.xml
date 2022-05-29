@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/fragmentoPantallaPrincipal"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Pantalla principal" />
+        <item
+            android:id="@+id/fragmentoEjercicios"
+            android:icon="@mipmap/ic_pesa"
+            android:title="Ejercicios" />
+        <item
+            android:id="@+id/fragmentoClases"
+            android:icon="@mipmap/ic_rutinas"
+            android:title="Clases" />
+        <item
+            android:id="@+id/fragmentoDietas"
+            android:icon="@mipmap/ic_dietas"
+            android:title="Dietas" />
+    </group>
+
+
+    <item android:title="Mis cosas">
+        <menu>
+            <item
+                android:id="@+id/fragmentoTusEjercicios"
+                android:icon="@mipmap/ic_correr"
+                android:title="Mis Ejercicios" />
+            <item
+                android:id="@+id/fragmentoTusClases"
+                android:icon="@mipmap/ic_tus_clases"
+                android:title="Mis Clases" />
+        </menu>
+    </item>
+
+</menu>

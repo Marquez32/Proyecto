@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CAF6CD" >
+
+    <EditText
+        android:id="@+id/etp_Rcontrasegna"
+        android:layout_width="177dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginTop="256dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/etp_repetirContrasegna"
+        android:layout_width="176dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="184dp"
+        android:layout_marginTop="308dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/tv_nombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="88dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Nombre:"
+        android:textAlignment="gravity"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_Rnick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="204dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Nick:"
+        android:textAlignment="gravity"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_apellidos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="152dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Apellidos:"
+        android:textAlignment="gravity"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_correo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="352dp"
+        android:layout_marginTop="88dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Correo:"
+        android:textAlignment="gravity"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_fechaNacimiento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="320dp"
+        android:layout_marginTop="212dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Fecha Nacimiento:"
+        android:textAlignment="gravity"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_Rcontrasegna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="268dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Contraseña:"
+        android:textAlignment="gravity"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_telefono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="352dp"
+        android:layout_marginTop="152dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Teléfono:"
+        android:textAlignment="gravity"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_fecha"
+        android:layout_width="100dp"
+        android:layout_height="22dp"
+        android:layout_marginStart="476dp"
+        android:layout_marginTop="212dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:textAlignment="gravity"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_repetirContrasegna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="316dp"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:text="Repetir Contraseña:"
+        android:textAlignment="gravity"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/et_nombre"
+        android:layout_width="177dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="76dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/et_Rnick"
+        android:layout_width="176dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="192dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/et_correo"
+        android:layout_width="183dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="456dp"
+        android:layout_marginTop="76dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/et_apellidos"
+        android:layout_width="177dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="112dp"
+        android:layout_marginTop="136dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/et_telefono"
+        android:layout_width="183dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="456dp"
+        android:layout_marginTop="136dp"
+        android:background="@color/white"
+        android:ems="10"
+        android:inputType="numberSigned"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_fechaNacimiento"
+        android:layout_width="115dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="600dp"
+        android:layout_marginTop="204dp"
+        android:backgroundTint="@color/purple_200"
+        android:text="Fecha"
+        android:textColor="@color/white"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_registrar"
+        android:layout_width="147dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="568dp"
+        android:layout_marginTop="268dp"
+        android:backgroundTint="@color/design_default_color_secondary_variant"
+        android:text="Registrarse"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_volver"
+        android:layout_width="147dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="396dp"
+        android:layout_marginTop="268dp"
+        android:backgroundTint="@color/design_default_color_secondary_variant"
+        android:text="Volver"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_datos"
+        android:layout_width="364dp"
+        android:layout_height="46dp"
+        android:layout_marginStart="196dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center|clip_vertical|center_horizontal"
+        android:text="DATOS PERSONALES"
+        android:textAlignment="center"
+        android:textColor="@color/design_default_color_primary"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

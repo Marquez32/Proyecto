@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/drawable/background_blue.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/drawable/background_red.xml" value="0.1259259259259259" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/drawable/dietaHipocalorica_background.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/drawable/ic_dietas_background.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/drawable/ic_pesa_background.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/drawable/item_ejercicio.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/activity_registrar_usuario.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/custom_toast_mistake.xml" value="0.1" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/fragmento_clases.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/fragmento_dietas.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/fragmento_ejercicios.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/fragmento_pantalla_principal.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/fragmento_tus_clases.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout-land/fragmento_tus_ejercicios.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/actividad_pantalla_principal.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/activity_menu_slide.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/activity_registrar_usuario.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/app_bar_menu_slide.xml" value="0.12974976830398516" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/content_menu_slide.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/custom_toast_mistake.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/custom_toast_ok.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragment_green.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragment_levi.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragment_slideshow.xml" value="0.18514946962391515" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragmento_clases.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragmento_dietas.xml" value="0.4207920792079208" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragmento_ejercicios.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragmento_pantalla_principal.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragmento_rutinas.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragmento_tus_clases.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/fragmento_tus_ejercicios.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/item_clases.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/item_ejercicio.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/item_usuario_ejercicio.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/layout/nav_header_menu_slide.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/menu/activity_main_drawer.xml" value="0.16512820512820514" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/menu/menu_slide.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/mipmap-anydpi-v26/dietaHipocalorica.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Usuario/Documents/fp_DAM/2DAM/Programacion_Multimedia/Ejercicios/Proyecto/app/src/main/res/mipmap-anydpi-v26/dietaHipocalorica_round.xml" value="0.18385416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

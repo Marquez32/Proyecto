@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="registrar"><u>Si no está registrado, pulse aquí</u></string>
+    <string name="title_activity_menu_slide">MenuSlideActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textazo">Aquí aparecerán los ejercicios que tienes que hacer en
+            la fecha seleccionada.</string>
+    <string name="textazo2">Para borrar un ejercicio haz click sobre él y después
+            pulse el botón borrar ejercicio.</string>
+    <string name="textoEjercicios">Para añadir un ejercicio debe mantener pulsado el ejercicio en la
+            lista y posteriormente pulsar añadir ejercicio.</string>
+    <string name="textoClases">Para añadir una nueva clase a su lista debe mantener pulsado
+    la clase que quiera añadir y, posteriormente pulsar añadir clase.</string>
+    <string name="hipocalorica"><u>https://www.clara.es/belleza/cuerpo/dieta-hipocalorica_13897</u></string>
+    <string name="por_puntos"><u>https://www.merca2.es/2019/06/22/dieta-puntos-asi-hace/</u></string>
+    <string name="paleo"><u>https://middlesexhealth.org/learning-center/espanol/articulos/dieta-paleo-qu-es-y-por-qu-es-tan-popular</u></string>
+    <string name="proteica"><u>https://www.clara.es/belleza/cuerpo/dieta-proteica_16765</u></string>
+    <string name="detox"><u>https://www.dietox.es/que-es-la-dieta-detox-y-beneficios/</u></string>
+    <string name="textoBienvenida">Bienvenido a TuRutina</string>
+    <string name="textazoBienvenida">Espero que la aplicación te ayude a obtener los resultados
+    deseados. Muchas gracias por escogerla ;).</string>
+</resources>

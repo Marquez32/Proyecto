@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.proyecto.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/fragmentoEjercicios"
+        android:name="com.example.proyecto.FragmentoEjercicios"
+        android:label="Ejercicios"
+        tools:layout="@layout/fragmento_ejercicios" />
+    <fragment
+        android:id="@+id/fragmentoTusEjercicios"
+        android:name="com.example.proyecto.FragmentoTusEjercicios"
+        android:label="Mis ejercicios"
+        tools:layout="@layout/fragmento_tus_ejercicios" />
+    <fragment
+        android:id="@+id/fragmentoClases"
+        android:name="com.example.proyecto.FragmentoClases"
+        android:label="Clases"
+        tools:layout="@layout/fragmento_clases" />
+    <fragment
+        android:id="@+id/fragmentoTusClases"
+        android:name="com.example.proyecto.FragmentoTusClases"
+        android:label="Mis clases"
+        tools:layout="@layout/fragmento_tus_clases" />
+    <fragment
+        android:id="@+id/fragmentoDietas"
+        android:name="com.example.proyecto.FragmentoDietas"
+        android:label="Dietas"
+        tools:layout="@layout/fragmento_dietas" />
+    <fragment
+        android:id="@+id/fragmentoPantallaPrincipal"
+        android:name="com.example.proyecto.FragmentoPantallaPrincipal"
+        android:label="Pantalla principal"
+        tools:layout="@layout/fragmento_pantalla_principal" />
+</navigation>
